@@ -1,0 +1,9 @@
+D:\快盘\StudyNoteOfCsharp\WcfServiceWinformClient\bin\Debug\WcfServiceWinformClient.exe.config
+D:\快盘\StudyNoteOfCsharp\WcfServiceWinformClient\bin\Debug\WcfServiceWinformClient.exe
+D:\快盘\StudyNoteOfCsharp\WcfServiceWinformClient\bin\Debug\WcfServiceWinformClient.pdb
+D:\快盘\StudyNoteOfCsharp\WcfServiceWinformClient\obj\Debug\WcfServiceWinformClient.Properties.Resources.resources
+D:\快盘\StudyNoteOfCsharp\WcfServiceWinformClient\obj\Debug\WcfServiceWinformClient.csproj.GenerateResource.Cache
+D:\快盘\StudyNoteOfCsharp\WcfServiceWinformClient\obj\Debug\WcfServiceWinformClient.exe
+D:\快盘\StudyNoteOfCsharp\WcfServiceWinformClient\obj\Debug\WcfServiceWinformClient.pdb
+D:\快盘\StudyNoteOfCsharp\WcfServiceWinformClient\obj\Debug\WcfServiceWinformClient.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\WcfServiceWinformClient\obj\Debug\WcfServiceWinformClient.Form1.resources

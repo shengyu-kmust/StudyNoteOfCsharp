@@ -1,0 +1,5 @@
+D:\快盘\StudyNoteOfCsharp\Model\bin\Debug\Study.Model.dll
+D:\快盘\StudyNoteOfCsharp\Model\bin\Debug\Study.Model.pdb
+D:\快盘\StudyNoteOfCsharp\Model\obj\Debug\Study.Model.dll
+D:\快盘\StudyNoteOfCsharp\Model\obj\Debug\Study.Model.pdb
+D:\快盘\StudyNoteOfCsharp\Model\obj\Debug\Study.Model.csprojResolveAssemblyReference.cache

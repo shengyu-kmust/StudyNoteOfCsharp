@@ -1,0 +1,5 @@
+D:\快盘\StudyNoteOfCsharp\设计模式\bin\Debug\设计模式.pdb
+D:\快盘\StudyNoteOfCsharp\设计模式\obj\Debug\设计模式.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\设计模式\obj\Debug\设计模式.pdb
+D:\快盘\StudyNoteOfCsharp\设计模式\bin\Debug\设计模式.exe
+D:\快盘\StudyNoteOfCsharp\设计模式\obj\Debug\设计模式.exe

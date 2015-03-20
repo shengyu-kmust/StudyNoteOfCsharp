@@ -1,0 +1,6 @@
+D:\快盘\StudyNoteOfCsharp\MyStyle\bin\Debug\MyStyle.dll
+D:\快盘\StudyNoteOfCsharp\MyStyle\bin\Debug\MyStyle.pdb
+D:\快盘\StudyNoteOfCsharp\MyStyle\obj\Debug\MyStyle.dll
+D:\快盘\StudyNoteOfCsharp\MyStyle\obj\Debug\MyStyle.pdb
+D:\快盘\StudyNoteOfCsharp\MyStyle\obj\Debug\MyStyle.MyForm.resources
+D:\快盘\StudyNoteOfCsharp\MyStyle\obj\Debug\MyStyle.csproj.GenerateResource.Cache

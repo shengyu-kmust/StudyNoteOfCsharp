@@ -1,0 +1,12 @@
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\obj\Debug\Winform用第三方控件开发一个软件.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\obj\Debug\Winform用第三方控件开发一个软件.MainForm.resources
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\obj\Debug\Winform用第三方控件开发一个软件.csproj.GenerateResource.Cache
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\bin\Debug\Winform用第三方控件开发一个软件.exe
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\bin\Debug\Winform用第三方控件开发一个软件.pdb
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\bin\Debug\OutLookBar.dll
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\bin\Debug\OutLookBar.pdb
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\obj\Debug\Winform用第三方控件开发一个软件.LeftToolBar.resources
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\obj\Debug\Winform用第三方控件开发一个软件.exe
+D:\快盘\StudyNoteOfCsharp\Winform用第三方控件开发一个软件\obj\Debug\Winform用第三方控件开发一个软件.pdb

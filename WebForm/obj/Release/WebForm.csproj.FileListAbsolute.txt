@@ -1,0 +1,12 @@
+D:\快盘\StudyNoteOfCsharp\WebForm\bin\WebForm.dll
+D:\快盘\StudyNoteOfCsharp\WebForm\bin\WebForm.pdb
+D:\快盘\StudyNoteOfCsharp\WebForm\bin\Microsoft.Web.Infrastructure.dll
+D:\快盘\StudyNoteOfCsharp\WebForm\bin\Microsoft.Web.Infrastructure.xml
+D:\快盘\StudyNoteOfCsharp\WebForm\obj\Release\WebForm.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\WebForm\obj\Release\WebForm.dll
+D:\快盘\StudyNoteOfCsharp\WebForm\obj\Release\WebForm.pdb
+D:\快盘\StudyNoteOfCsharp\WebForm\bin\ClassLibrary.dll
+D:\快盘\StudyNoteOfCsharp\WebForm\bin\Winform.exe
+D:\快盘\StudyNoteOfCsharp\WebForm\bin\ClassLibrary.pdb
+D:\快盘\StudyNoteOfCsharp\WebForm\bin\Winform.pdb
+D:\快盘\StudyNoteOfCsharp\WebForm\bin\Winform.XmlSerializers.dll

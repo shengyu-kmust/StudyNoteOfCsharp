@@ -1,0 +1,5 @@
+D:\快盘\StudyNoteOfCsharp\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\快盘\StudyNoteOfCsharp\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\快盘\StudyNoteOfCsharp\ClassLibrary\bin\Debug\ClassLibrary.exe
+D:\快盘\StudyNoteOfCsharp\ClassLibrary\obj\Debug\ClassLibrary.exe
+D:\快盘\StudyNoteOfCsharp\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache

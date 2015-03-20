@@ -1,0 +1,4 @@
+D:\快盘\StudyNoteOfCsharp\ClassLibrary\bin\Release\ClassLibrary.dll
+D:\快盘\StudyNoteOfCsharp\ClassLibrary\bin\Release\ClassLibrary.pdb
+D:\快盘\StudyNoteOfCsharp\ClassLibrary\obj\Release\ClassLibrary.dll
+D:\快盘\StudyNoteOfCsharp\ClassLibrary\obj\Release\ClassLibrary.pdb

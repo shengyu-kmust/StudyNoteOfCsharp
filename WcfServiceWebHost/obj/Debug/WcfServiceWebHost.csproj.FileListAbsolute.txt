@@ -1,0 +1,5 @@
+D:\快盘\StudyNoteOfCsharp\WcfServiceWebHost\bin\WcfServiceWebHost.dll
+D:\快盘\StudyNoteOfCsharp\WcfServiceWebHost\bin\WcfServiceWebHost.pdb
+D:\快盘\StudyNoteOfCsharp\WcfServiceWebHost\obj\Debug\WcfServiceWebHost.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\WcfServiceWebHost\obj\Debug\WcfServiceWebHost.dll
+D:\快盘\StudyNoteOfCsharp\WcfServiceWebHost\obj\Debug\WcfServiceWebHost.pdb

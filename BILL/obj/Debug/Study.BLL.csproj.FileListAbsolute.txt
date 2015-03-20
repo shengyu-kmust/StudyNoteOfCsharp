@@ -1,0 +1,13 @@
+D:\快盘\StudyNoteOfCsharp\BILL\obj\Debug\Study.BLL.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\BILL\bin\Debug\Study.BLL.dll
+D:\快盘\StudyNoteOfCsharp\BILL\bin\Debug\Study.BLL.pdb
+D:\快盘\StudyNoteOfCsharp\BILL\bin\Debug\Study.FactoryDAL.dll
+D:\快盘\StudyNoteOfCsharp\BILL\bin\Debug\Study.IDAL.dll
+D:\快盘\StudyNoteOfCsharp\BILL\bin\Debug\Study.Model.dll
+D:\快盘\StudyNoteOfCsharp\BILL\bin\Debug\Study.FactoryDAL.pdb
+D:\快盘\StudyNoteOfCsharp\BILL\bin\Debug\Study.IDAL.pdb
+D:\快盘\StudyNoteOfCsharp\BILL\bin\Debug\Study.Model.pdb
+D:\快盘\StudyNoteOfCsharp\BILL\obj\Debug\Study.BLL.dll
+D:\快盘\StudyNoteOfCsharp\BILL\obj\Debug\Study.BLL.pdb
+D:\快盘\StudyNoteOfCsharp\BILL\bin\Debug\Study.SQLServerDAL.dll
+D:\快盘\StudyNoteOfCsharp\BILL\bin\Debug\Study.SQLServerDAL.pdb

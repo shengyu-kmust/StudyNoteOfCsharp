@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{97265D1C-5058-4DEA-B9BC-904D87B63B8B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Winform</RootNamespace>
+    <AssemblyName>Winform</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\公共事件.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\公共事件.Designer.cs">
+      <DependentUpon>公共事件.cs</DependentUpon>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\公共属性.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\公共属性.Designer.cs">
+      <DependentUpon>公共属性.cs</DependentUpon>
+    </Compile>
+    <Compile Include="自定义控件\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="自定义控件\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="自定义控件\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="自定义控件\UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="读写配置文件.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="读写配置文件.Designer.cs">
+      <DependentUpon>读写配置文件.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\localhost\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="webservice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="webservice.Designer.cs">
+      <DependentUpon>webservice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputAndOutputOfXml.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputAndOutputOfXml.Designer.cs">
+      <DependentUpon>InputAndOutputOfXml.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyConfig.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="winform基本控件和属性学习\公共控件.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\公共控件.Designer.cs">
+      <DependentUpon>公共控件.cs</DependentUpon>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\容器.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\容器.Designer.cs">
+      <DependentUpon>容器.cs</DependentUpon>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\打印.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\打印.Designer.cs">
+      <DependentUpon>打印.cs</DependentUpon>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\数据.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\数据.Designer.cs">
+      <DependentUpon>数据.cs</DependentUpon>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\组件.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\组件.Designer.cs">
+      <DependentUpon>组件.cs</DependentUpon>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\菜单和工具栏.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="winform基本控件和属性学习\菜单和工具栏.Designer.cs">
+      <DependentUpon>菜单和工具栏.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XmlOfWriteAndRead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XmlOfWriteAndRead.Designer.cs">
+      <DependentUpon>XmlOfWriteAndRead.cs</DependentUpon>
+    </Compile>
+    <Compile Include="以table形式打开form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="以table形式打开form.Designer.cs">
+      <DependentUpon>以table形式打开form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="webservice.resx">
+      <DependentUpon>webservice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputAndOutputOfXml.resx">
+      <DependentUpon>InputAndOutputOfXml.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="winform基本控件和属性学习\公共事件.resx">
+      <DependentUpon>公共事件.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="winform基本控件和属性学习\公共控件.resx">
+      <DependentUpon>公共控件.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="winform基本控件和属性学习\容器.resx">
+      <DependentUpon>容器.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="winform基本控件和属性学习\打印.resx">
+      <DependentUpon>打印.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="winform基本控件和属性学习\数据.resx">
+      <DependentUpon>数据.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="winform基本控件和属性学习\组件.resx">
+      <DependentUpon>组件.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="winform基本控件和属性学习\菜单和工具栏.resx">
+      <DependentUpon>菜单和工具栏.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xmlOfWriteAndRead.resx">
+      <DependentUpon>XmlOfWriteAndRead.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="以table形式打开form.resx">
+      <DependentUpon>以table形式打开form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="自定义控件\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="自定义控件\UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\Winform.exe.config" />
+    <None Include="bin\Debug\Winform.vshost.exe.config" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\Winform.csprojResolveAssemblyReference.cache" />
+    <None Include="Properties\DataSources\System.Xml.Linq.XElement.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Web References\localhost\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\localhost\WebService1.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj">
+      <Project>{eba0f15f-146c-4231-a1e6-f46161adb939}</Project>
+      <Name>ClassLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyStyle\MyStyle.csproj">
+      <Project>{5da7b878-45d3-454c-8e03-acc166d8222a}</Project>
+      <Name>MyStyle</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Winform.vshost.exe" />
+    <Content Include="obj\Debug\Winform.csproj.FileListAbsolute.txt" />
+    <None Include="Web References\localhost\WebService1.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost:5413/webservice/WebService1.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\localhost\</RelPath>
+      <UpdateFromURL>http://localhost:5413/webservice/WebService1.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Winform_localhost_WebService1</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

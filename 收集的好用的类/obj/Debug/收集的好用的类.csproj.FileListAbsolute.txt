@@ -1,0 +1,5 @@
+D:\快盘\StudyNoteOfCsharp\收集的好用的类\bin\Debug\收集的好用的类.dll
+D:\快盘\StudyNoteOfCsharp\收集的好用的类\bin\Debug\收集的好用的类.pdb
+D:\快盘\StudyNoteOfCsharp\收集的好用的类\obj\Debug\收集的好用的类.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\收集的好用的类\obj\Debug\收集的好用的类.dll
+D:\快盘\StudyNoteOfCsharp\收集的好用的类\obj\Debug\收集的好用的类.pdb

@@ -1,0 +1,5 @@
+D:\快盘\StudyNoteOfCsharp\OutLookBar\obj\Debug\OutLookBar.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\OutLookBar\bin\Debug\OutLookBar.dll
+D:\快盘\StudyNoteOfCsharp\OutLookBar\bin\Debug\OutLookBar.pdb
+D:\快盘\StudyNoteOfCsharp\OutLookBar\obj\Debug\OutLookBar.dll
+D:\快盘\StudyNoteOfCsharp\OutLookBar\obj\Debug\OutLookBar.pdb

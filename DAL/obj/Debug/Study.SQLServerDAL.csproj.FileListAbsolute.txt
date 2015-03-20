@@ -1,0 +1,9 @@
+D:\快盘\StudyNoteOfCsharp\DAL\obj\Debug\Study.SQLServerDAL.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\DAL\bin\Debug\Study.IDAL.dll
+D:\快盘\StudyNoteOfCsharp\DAL\bin\Debug\Study.Model.dll
+D:\快盘\StudyNoteOfCsharp\DAL\bin\Debug\Study.IDAL.pdb
+D:\快盘\StudyNoteOfCsharp\DAL\bin\Debug\Study.Model.pdb
+D:\快盘\StudyNoteOfCsharp\DAL\bin\Debug\Study.SQLServerDAL.dll
+D:\快盘\StudyNoteOfCsharp\DAL\bin\Debug\Study.SQLServerDAL.pdb
+D:\快盘\StudyNoteOfCsharp\DAL\obj\Debug\Study.SQLServerDAL.dll
+D:\快盘\StudyNoteOfCsharp\DAL\obj\Debug\Study.SQLServerDAL.pdb

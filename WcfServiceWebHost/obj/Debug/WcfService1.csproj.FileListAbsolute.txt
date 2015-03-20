@@ -1,0 +1,5 @@
+D:\快盘\StudyNoteOfCsharp\WcfService1\bin\WcfService1.dll
+D:\快盘\StudyNoteOfCsharp\WcfService1\bin\WcfService1.pdb
+D:\快盘\StudyNoteOfCsharp\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\WcfService1\obj\Debug\WcfService1.dll
+D:\快盘\StudyNoteOfCsharp\WcfService1\obj\Debug\WcfService1.pdb

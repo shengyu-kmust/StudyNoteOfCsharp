@@ -1,0 +1,11 @@
+D:\快盘\StudyNoteOfCsharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\快盘\StudyNoteOfCsharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\快盘\StudyNoteOfCsharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\快盘\StudyNoteOfCsharp\WcfServiceHost\bin\Debug\WcfServiceHost.exe.config
+D:\快盘\StudyNoteOfCsharp\WcfServiceHost\bin\Debug\WcfServiceHost.exe
+D:\快盘\StudyNoteOfCsharp\WcfServiceHost\bin\Debug\WcfServiceHost.pdb
+D:\快盘\StudyNoteOfCsharp\WcfServiceHost\bin\Debug\WcfServiceLibrary1.dll
+D:\快盘\StudyNoteOfCsharp\WcfServiceHost\bin\Debug\WcfServiceLibrary1.pdb
+D:\快盘\StudyNoteOfCsharp\WcfServiceHost\obj\Debug\WcfServiceHost.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\WcfServiceHost\obj\Debug\WcfServiceHost.exe
+D:\快盘\StudyNoteOfCsharp\WcfServiceHost\obj\Debug\WcfServiceHost.pdb

@@ -1,0 +1,7 @@
+D:\快盘\StudyNoteOfCsharp\IDAL\obj\Debug\Study.IDAL.csprojResolveAssemblyReference.cache
+D:\快盘\StudyNoteOfCsharp\IDAL\bin\Debug\Study.IDAL.dll
+D:\快盘\StudyNoteOfCsharp\IDAL\bin\Debug\Study.IDAL.pdb
+D:\快盘\StudyNoteOfCsharp\IDAL\bin\Debug\Study.Model.dll
+D:\快盘\StudyNoteOfCsharp\IDAL\bin\Debug\Study.Model.pdb
+D:\快盘\StudyNoteOfCsharp\IDAL\obj\Debug\Study.IDAL.dll
+D:\快盘\StudyNoteOfCsharp\IDAL\obj\Debug\Study.IDAL.pdb
